@@ -19,7 +19,7 @@ const Navbar = () => {
     return (
         <nav className="flex items-center justify-between p-4 bg-gray-100">
             <div className="flex-shrink-0">
-                <h1 className="text-xl text-[#3A1B0F] font-semibold">Bookie</h1>
+                <h1 className="text-xl text-[#3A1B0F] font-semibold">BookBee</h1>
             </div>
             <div className="flex-grow mx-4">
                 <Search />
